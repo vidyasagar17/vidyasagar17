@@ -4,13 +4,11 @@
 
 **M.S. Computer Science @ George Mason University**
 
-*Building at the intersection of LLMs, financial data, and machine learning*
+*Building at the intersection of LLMs, autonomous agents, and machine learning*
 
 [![GitHub](https://img.shields.io/badge/GitHub-vidyasagar17-181717?style=for-the-badge&logo=github)](https://github.com/vidyasagar17)
 
 </div>
-
----
 
 ## About Me
 
