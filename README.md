@@ -11,7 +11,7 @@
 </div>
 
 ## About Me
-I'm a recent Computer Science graduate (M.S., George Mason University, May 2026) with hands-on experience in Python, machine learning, and large language models. As a Graduate Research Assistant, I built large-scale pipelines for extracting structured financial data from SEC filings using LLMs on GCP/Vertex AI — work that taught me how to wrestle messy, real-world data into something useful. I love tackling unstructured data problems and building pipelines that actually work in production, not just in notebooks. Now I'm looking for full-time roles in data engineering, ML, or software engineering where I can keep solving hard problems at scale.
+I'm a recent Computer Science graduate (M.S., George Mason University, May 2026) with hands-on experience in Python, machine learning, and large language models. As a Graduate Research Assistant, I built large-scale pipelines for extracting structured financial data from SEC filings using LLMs on GCP/Vertex AI work that taught me how to wrestle messy, real-world data into something useful. I love tackling unstructured data problems and building pipelines that actually work in production, not just in notebooks. Now I'm looking for full-time roles in data engineering, ML, or software engineering where I can keep solving hard problems at scale.
 
 **What I'm working on:**
 - 🔬 LLM-based financial data extraction from SEC filings (Gemini / Vertex AI)
