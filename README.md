@@ -11,8 +11,7 @@
 </div>
 
 ## About Me
-
-I'm a graduate research assistant and software developer focused on Python, machine learning, and large language models. My research involves extracting structured financial data from SEC filings using LLMs — specifically GAAP-to-Non-GAAP EPS reconciliation at scale. I love tackling messy, real-world data problems and building pipelines that actually work.
+I'm a graduate research assistant and software developer focused on Python, machine learning, and large language models. My research involves extracting structured financial data from SEC filings using LLMs at scale. I love tackling messy, real-world data problems and building pipelines that actually work.
 
 **What I'm working on:**
 - 🔬 LLM-based financial data extraction from SEC filings (Gemini / Vertex AI)
